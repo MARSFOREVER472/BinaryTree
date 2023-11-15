@@ -32,6 +32,22 @@ ABB crearNodo(int x)
     return nuevoNodo;
 }
 
+void insertarNodo(ABB& arbol, int x)
+{
+    if (arbol == NULL) // SI EL ÁRBOL ESTÁ VACÍO, QUE RETORNA A NULL.
+    {
+        arbol = crearNodo(x); // CREAREMOS UN NUEVO NODO INSERTANDO ELEMENTOS EN "x".
+    }
+
+    // EN CASO CONTRARIO, PUEDE COMPARAR VALORES SI ES MAYOR O MENOR QUE EL DEL ELEMENTO INVOLUCRADO DENTRO DE UN NODO.
+
+    else if (x < arbol->number) // SUPONIENDO QUE SI EL NODO PADRE (x) ES MENOR QUE EL DEL NÚMERO POR DEFECTO A INSERTAR.
+        insertarNodo(arbol->izq, x); // INSERTA UN NODO HACIA EL LADO IZQUIERDO DEL ÁRBOL.
+
+    else if (x > arbol->number) // SUPONIENDO QUE SI EL NODO PADRE (x) ES MAYOR QUE EL DEL NÚMERO POR DEFECTO A INSERTAR.
+        insertarNodo(arbol->der, x); // INSERTA UN NODO HACIA EL LADO DERECHO DEL ÁRBOL.
+}
+
 int main()
 {
     // EN INSTANTES...
