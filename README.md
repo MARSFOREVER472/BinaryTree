@@ -48,3 +48,13 @@ Primero creamos el nodo:
 };
 
 Los punteros son variables que guardaran en la memoria la dirección de otra variable en este caso la de una estructura llamado nodo.
+
+## Recorridos de un árbol
+
+Es la manera recursiva como pasaremos por cada nodo del árbol, existes tres formas:
+
+- En-orden: Si visitamos primero hijo izquierdo, luego el padre y finalmente el hijo derecho.
+- Pre-orden: Primero el padre, luego el hijo izquierdo y finalmente el hijo derecho.
+- Post-orden: Primero hijo izquierdo, luego el hijo derecho y finalmente el padre.
+
+Existen muchos conceptos sobre árboles ABB por ejemplo, recorridos por nivel, profundidad de un árbol, etc.
