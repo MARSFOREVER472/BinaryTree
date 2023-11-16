@@ -48,6 +48,42 @@ void insertarNodo(ABB& arbol, int x)
         insertarNodo(arbol->der, x); // INSERTA UN NODO HACIA EL LADO DERECHO DEL ÁRBOL.
 }
 
+// LO HAREMOS EN RECORRIDO PRE-ORDEN EL ÁRBOL BINARIO (ABB):
+
+void preOrden(ABB arbol)
+{
+    if (arbol != NULL) // SI EL ÁRBOL NO ESTÁ VACÍO O RETORNA A NULL.
+    {
+        cout << arbol->number << " "; // ELEMENTO O NODO DENTRO DE ESTE ÁRBOL BINARIO.
+        preOrden(arbol->izq); // LADO IZQUIERDO DEL ÁRBOL BINARIO EN RECORRIDO PRE-ORDEN.
+        preOrden(arbol->der); // LADO DERECHO DEL ÁRBOL BINARIO EN RECORRIDO PRE-ORDEN.
+    }
+}
+
+// LO HAREMOS EN RECORRIDO EN-ORDEN EL ÁRBOL BINARIO (ABB):
+
+void enOrden(ABB arbol)
+{
+    if (arbol != NULL) // SI EL ÁRBOL NO ESTÁ VACÍO O RETORNA A NULL.
+    {
+        enOrden(arbol->izq); // LADO IZQUIERDO DEL ÁRBOL BINARIO EN RECORRIDO EN-ORDEN.
+        cout << arbol->number << " "; // ELEMENTO O NODO DENTRO DE ESTE ÁRBOL BINARIO EN RECORRIDO EN-ORDEN.
+        enOrden(arbol->der); // LADO DERECHO DEL ÁRBOL BINARIO EN RECORRIDO EN-ORDEN.
+    }
+}
+
+// LO HAREMOS EN RECORRIDO POST-ORDEN EL ÁRBOL BINARIO (ABB):
+
+void postOrden(ABB arbol)
+{
+    if (arbol != NULL) // SI EL ÁRBOL NO ESTÁ VACÍO O RETORNA A NULL.
+    {
+        postOrden(arbol->izq); // LADO IZQUIERDO DEL ÁRBOL BINARIO EN RECORRIDO POST-ORDEN.
+        postOrden(arbol->der); // LADO DERECHO DEL ÁRBOL BINARIO EN RECORRIDO POST-ORDEN.
+        cout << arbol->number << " "; // ELEMENTO O NODO DENTRO DE ESTE ÁRBOL BINARIO EN RECORRIDO POST-ORDEN.
+    }
+}
+
 int main()
 {
     // EN INSTANTES...
