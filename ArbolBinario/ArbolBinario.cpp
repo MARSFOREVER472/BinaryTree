@@ -84,6 +84,24 @@ void postOrden(ABB arbol)
     }
 }
 
+// MÉTODO PARA VISUALIZAR EL ÁRBOL BINARIO POR NODOS Y ELEMENTOS INSERTADOS, MODIFICADOS O ELIMINADOS.
+
+void viewTree(ABB arbol, int n)
+{
+    if (arbol == NULL) // SI EL ÁRBOL ESTÁ VACÍO, ENTONCES COMENZAMOS A IMPLEMENTAR EN ELLO.
+        return;
+    viewTree(arbol->der, n + 1); // INSERTA UN VALOR ADICIONAL EN EL LADO DERECHO DEL NODO PADRE (ÁRBOL BINARIO PRINCIPAL).
+
+    // VAMOS A RECORRER EL ÁRBOL BINARIO DESDE EL NODO PADRE MEDIANTE UN CICLO "for".
+
+    for (int i = 0; i < n; i++)
+        cout << "    ";
+
+    cout << arbol->number << endl;
+
+    viewTree(arbol->izq, n + 1); // INSERTA UN VALOR ADICIONAL EN EL LADO IZQUIERDO DEL NODO PADRE (ÁRBOL BINARIO PRINCIPAL).
+}
+
 int main()
 {
     // EN INSTANTES...
