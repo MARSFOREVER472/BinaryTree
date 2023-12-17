@@ -38,7 +38,6 @@ Los punteros tienen que ser del tipo árbol, ya que apuntaran a un nodo del mism
 Primero creamos el nodo:
 
    ```
-
    struct nodo{
    
    int dato;
