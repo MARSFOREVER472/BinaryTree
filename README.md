@@ -54,7 +54,7 @@ _Los punteros son variables que guardaran en la memoria la dirección de otra va
 
 _Es la manera recursiva como pasaremos por cada nodo del árbol, existen tres formas para recorrerlo:_
 
-- En-orden: Si visitamos primero hijo izquierdo, luego el padre y finalmente el hijo derecho.
+- _En-orden: Si visitamos primero hijo izquierdo, luego el padre y finalmente el hijo derecho._
 - Pre-orden: Primero el padre, luego el hijo izquierdo y finalmente el hijo derecho.
 - Post-orden: Primero hijo izquierdo, luego el hijo derecho y finalmente el padre.
 
