@@ -25,7 +25,7 @@ _Ya con estas definiciones claras sobre arboles, ahora estos son conceptos gener
 
 _Cada elemento(nodo) de un árbol ABB cuenta con tres campos:_
 
-- Dato(numero, letra, palabra, etc), en este caso usaremos un numero(entero).
+- _Dato(numero, letra, palabra, etc), en este caso usaremos un numero(entero)._
   
 - Puntero al nodo derecho.
  
