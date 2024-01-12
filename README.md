@@ -35,7 +35,7 @@ _Cada elemento(nodo) de un árbol ABB cuenta con tres campos:_
 
 _Los punteros tienen que ser del tipo árbol, ya que apuntaran a un nodo del mismo tipo, este seria un ejemplo de como se seria el tipo arbol ABB._
 
-Primero creamos el nodo:
+_Primero creamos el nodo:_
 
    ```
    struct nodo{
