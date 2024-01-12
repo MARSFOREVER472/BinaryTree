@@ -11,7 +11,7 @@ Pero...
 
 ## ¿Qué es un árbol binario?
 
-Un árbol binario es aquel es el que cada elemento apunta como máximo a otros 2 elementos, comúnmente llamados hijo izquierdo e hijo derecho.
+_Un árbol binario es aquel es el que cada elemento apunta como máximo a otros 2 elementos, comúnmente llamados hijo izquierdo e hijo derecho._
 
 ![image](https://github.com/MARSFOREVER472/BinaryTree/assets/69094327/23546c2c-2dbe-450f-adad-bce138380131)
 
