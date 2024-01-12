@@ -21,7 +21,7 @@ _Un árbol binario de buque da o ABB, es un árbol binario en el cual para todo 
 
 ![image](https://github.com/MARSFOREVER472/BinaryTree/assets/69094327/8455f336-0c37-4f81-b05e-a3a3a0dbc5a0)
 
-Ya con estas definiciones claras sobre arboles, ahora estos son conceptos generales de lo que es un árbol, para poder implementarlos en lenguaje C++ tenemos que tener conocimientos previos sobre listas enlazadas y su implementación.
+_Ya con estas definiciones claras sobre arboles, ahora estos son conceptos generales de lo que es un árbol, para poder implementarlos en lenguaje C++ tenemos que tener conocimientos previos sobre listas enlazadas y su implementación._
 
 Cada elemento(nodo) de un árbol ABB cuenta con tres campos:
 
