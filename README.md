@@ -52,7 +52,7 @@ _Los punteros son variables que guardaran en la memoria la dirección de otra va
 
 ## Recorridos de un árbol
 
-Es la manera recursiva como pasaremos por cada nodo del árbol, existes tres formas:
+_Es la manera recursiva como pasaremos por cada nodo del árbol, existen tres formas para recorrerlo:_
 
 - En-orden: Si visitamos primero hijo izquierdo, luego el padre y finalmente el hijo derecho.
 - Pre-orden: Primero el padre, luego el hijo izquierdo y finalmente el hijo derecho.
