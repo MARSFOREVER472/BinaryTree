@@ -27,7 +27,7 @@ _Cada elemento(nodo) de un árbol ABB cuenta con tres campos:_
 
 - _Dato(numero, letra, palabra, etc), en este caso usaremos un numero(entero)._
   
-- Puntero al nodo derecho.
+- _Puntero al nodo derecho._
  
 - Puntero al nodo izquierdo.
 
