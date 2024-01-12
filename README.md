@@ -29,7 +29,7 @@ _Cada elemento(nodo) de un árbol ABB cuenta con tres campos:_
   
 - _Puntero al nodo derecho._
  
-- Puntero al nodo izquierdo.
+- _Puntero al nodo izquierdo._
 
 ![image](https://github.com/MARSFOREVER472/BinaryTree/assets/69094327/6622f6bc-7213-489c-91c4-02e309179d6a)
 
