@@ -56,6 +56,6 @@ _Es la manera recursiva como pasaremos por cada nodo del árbol, existen tres fo
 
 - _En-orden: Si visitamos primero hijo izquierdo, luego el padre y finalmente el hijo derecho._
 - _Pre-orden: Primero el padre, luego el hijo izquierdo y finalmente el hijo derecho._
-- Post-orden: Primero hijo izquierdo, luego el hijo derecho y finalmente el padre.
+- _Post-orden: Primero hijo izquierdo, luego el hijo derecho y finalmente el padre._
 
 Existen muchos conceptos sobre árboles ABB por ejemplo, recorridos por nivel, profundidad de un árbol, etc.
