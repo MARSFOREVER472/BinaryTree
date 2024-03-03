@@ -7,7 +7,7 @@
 
 ![image](https://github.com/MARSFOREVER472/BinaryTree/assets/69094327/d773eb2a-7552-46de-ac2f-db4ee0c7c007)
 
-Pero...
+_Pero..._
 
 ## ¿Qué es un árbol binario?
 
