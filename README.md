@@ -33,7 +33,7 @@
 
 ![image](https://github.com/MARSFOREVER472/BinaryTree/assets/69094327/6622f6bc-7213-489c-91c4-02e309179d6a)
 
-_Los punteros tienen que ser del tipo árbol, ya que apuntaran a un nodo del mismo tipo, este seria un ejemplo de como se seria el tipo arbol ABB._
+**_Los punteros tienen que ser del tipo árbol, ya que apuntaran a un nodo del mismo tipo, este seria un ejemplo de como se seria el tipo arbol ABB._**
 
 _Primero creamos el nodo:_
 
