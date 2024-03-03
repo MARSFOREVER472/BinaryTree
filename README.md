@@ -58,4 +58,4 @@
 - **_Pre-orden: Primero el padre, luego el hijo izquierdo y finalmente el hijo derecho._**
 - **_Post-orden: Primero hijo izquierdo, luego el hijo derecho y finalmente el padre._**
 
-_Existen muchos conceptos sobre árboles ABB por ejemplo, recorridos por nivel, profundidad de un árbol, etc._
+**_Existen muchos conceptos sobre árboles ABB por ejemplo, recorridos por nivel, profundidad de un árbol, etc._**
