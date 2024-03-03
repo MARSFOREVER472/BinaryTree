@@ -52,7 +52,7 @@
 
 ## Recorridos de un árbol
 
-_Es la manera recursiva como pasaremos por cada nodo del árbol, existen tres formas para recorrerlo:_
+**_Es la manera recursiva como pasaremos por cada nodo del árbol, existen tres formas para recorrerlo:_**
 
 - _En-orden: Si visitamos primero hijo izquierdo, luego el padre y finalmente el hijo derecho._
 - _Pre-orden: Primero el padre, luego el hijo izquierdo y finalmente el hijo derecho._
