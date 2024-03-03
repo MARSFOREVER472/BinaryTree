@@ -27,7 +27,7 @@
 
 - **_Dato(numero, letra, palabra, etc), en este caso usaremos un numero(entero)._**
   
-- _Puntero al nodo derecho._
+- **_Puntero al nodo derecho._**
  
 - _Puntero al nodo izquierdo._
 
