@@ -1,6 +1,6 @@
 # BinaryTree
 
-Traducido del español:
+_Traducido del español:_
 
 ## ¿Qué es un árbol?
 
