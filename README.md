@@ -1,6 +1,6 @@
 # BinaryTree
 
-What is a tree?
+## What is a tree?
 
 **_Traducido del español:_**
 
