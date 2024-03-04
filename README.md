@@ -10,6 +10,8 @@
 
 ## What is a Binary Tree?
 
+A binary tree is one in which each element points to at most 2 other elements, commonly called left child and right child.
+
 **_Traducido del español:_**
 
 ## ¿Qué es un árbol?
