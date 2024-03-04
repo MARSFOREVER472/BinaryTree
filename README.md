@@ -20,7 +20,7 @@
 
 ![image](https://github.com/MARSFOREVER472/BinaryTree/assets/69094327/8455f336-0c37-4f81-b05e-a3a3a0dbc5a0)
 
-With these right definitions about trees, now these are general concepts of what a tree is, in order to implement them in the C++ language we have to have prior knowledge about linked lists and their implementation.
+_With these right definitions about trees, now these are general concepts of what a tree is, in order to implement them in the C++ language we have to have prior knowledge about linked lists and their implementation._
 
 **_Traducido del español:_**
 
