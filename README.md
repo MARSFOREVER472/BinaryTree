@@ -8,7 +8,7 @@
 
 **_But..._**
 
-What is a Binary Tree?
+## What is a Binary Tree?
 
 **_Traducido del español:_**
 
