@@ -8,6 +8,8 @@
 
 **_But..._**
 
+What is a Binary Tree?
+
 **_Traducido del español:_**
 
 ## ¿Qué es un árbol?
