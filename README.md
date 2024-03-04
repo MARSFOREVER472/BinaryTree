@@ -18,6 +18,8 @@
 
 **_A binary search tree or ABB, is a binary tree in which for every element, the elements larger than it are located in its right branch, while the smaller elements go in its left branch. Each element is stored only once so there are no repeated elements._**
 
+![image](https://github.com/MARSFOREVER472/BinaryTree/assets/69094327/8455f336-0c37-4f81-b05e-a3a3a0dbc5a0)
+
 **_Traducido del español:_**
 
 ## ¿Qué es un árbol?
