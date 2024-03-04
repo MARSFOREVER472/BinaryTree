@@ -6,7 +6,7 @@
 
 ![image](https://github.com/MARSFOREVER472/BinaryTree/assets/69094327/d773eb2a-7552-46de-ac2f-db4ee0c7c007)
 
-_But..._
+**_But..._**
 
 **_Traducido del español:_**
 
