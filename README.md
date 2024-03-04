@@ -16,6 +16,8 @@
 
 ## What is a binary search tree?
 
+A binary search tree or ABB, is a binary tree in which for every element, the elements larger than it are located in its right branch, while the smaller elements go in its left branch. Each element is stored only once so there are no repeated elements.
+
 **_Traducido del español:_**
 
 ## ¿Qué es un árbol?
