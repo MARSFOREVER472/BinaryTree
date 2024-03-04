@@ -4,6 +4,8 @@
 
 **_A tree is a non-linear data structure since each element points to one or more elements of the same type; This is given an element, there is no single path to follow. The element that points to another is called the parent, while the pointed element is known as the child. All elements have a parent except the root. It can be said that a tree is made up of subtrees, thus highlighting its recursive nature._**
 
+![image](https://github.com/MARSFOREVER472/BinaryTree/assets/69094327/d773eb2a-7552-46de-ac2f-db4ee0c7c007)
+
 **_Traducido del español:_**
 
 ## ¿Qué es un árbol?
