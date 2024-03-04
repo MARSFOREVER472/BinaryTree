@@ -14,7 +14,7 @@
 
 ![image](https://github.com/MARSFOREVER472/BinaryTree/assets/69094327/23546c2c-2dbe-450f-adad-bce138380131)
 
-What is a binary search tree?
+## What is a binary search tree?
 
 **_Traducido del español:_**
 
