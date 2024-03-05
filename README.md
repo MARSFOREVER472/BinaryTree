@@ -24,6 +24,8 @@
 
 **_Each element (node) of an ABB tree has three fields:_**
 
+- Data (number, letter, word, etc.), in this case we will use a number (integer).
+
 **_Traducido del español:_**
 
 ## ¿Qué es un árbol?
