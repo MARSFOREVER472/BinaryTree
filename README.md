@@ -22,6 +22,8 @@
 
 **_With these right definitions about trees, now these are general concepts of what a tree is, in order to implement them in the C++ language we have to have prior knowledge about linked lists and their implementation._**
 
+Each element (node) of an ABB tree has three fields:
+
 **_Traducido del español:_**
 
 ## ¿Qué es un árbol?
