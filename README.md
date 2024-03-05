@@ -28,7 +28,7 @@
 
 - **_Pointer to the right node._**
 
-- Pointer to the left node.
+- _Pointer to the left node._
 
 **_Traducido del español:_**
 
