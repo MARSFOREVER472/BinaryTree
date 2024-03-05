@@ -27,7 +27,8 @@
 - **_Data (number, letter, word, etc.), in this case we will use a number (integer)._**
 
 - **_Pointer to the right node._**
-- 
+
+- Pointer to the left node.
 
 **_Traducido del español:_**
 
