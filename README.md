@@ -53,6 +53,8 @@ struct nodo *izq;
 
 **_It is the recursive way in which we will go through each node of the tree, there are three ways to go through it:_**
 
+- In-order: If we visit the left child first, then the father and finally the right child.
+
 **_Traducido del español:_**
 
 ## ¿Qué es un árbol?
