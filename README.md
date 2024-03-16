@@ -30,6 +30,8 @@
 
 - **_Pointer to the left node._**
 
+![image](https://github.com/MARSFOREVER472/BinaryTree/assets/69094327/4b480752-5f1c-4004-8084-895653c94047)
+
 **_The pointers have to be of the tree type, since they will point to a node of the same type, this would be an example of what the ABB tree type would be like._**
 
 **_Traducido del español:_**
