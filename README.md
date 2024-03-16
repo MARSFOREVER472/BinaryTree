@@ -47,7 +47,7 @@ struct nodo *izq;
 };
 ```
 
-_Pointers are variables that will store in memory the address of another variable, in this case that of a structure called a node._
+**_Pointers are variables that will store in memory the address of another variable, in this case that of a structure called a node._**
 
 **_Traducido del español:_**
 
