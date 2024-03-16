@@ -36,6 +36,16 @@
 
 **_First we create the node:_**
 
+struct nodo{
+
+int dato;
+
+struct nodo *der;
+
+struct nodo *izq;
+
+};
+
 **_Traducido del español:_**
 
 ## ¿Qué es un árbol?
