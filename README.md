@@ -53,7 +53,7 @@ struct nodo *izq;
 
 **_It is the recursive way in which we will go through each node of the tree, there are three ways to go through it:_**
 
-- _In-order: If we visit the left child first, then the father and finally the right child._
+- **_In-order: If we visit the left child first, then the father and finally the right child._**
 - _Pre-order: First the parent, then the left child, and finally the right child._
 - _Post-order: First left child, then right child and finally father._
 
