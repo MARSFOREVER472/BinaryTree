@@ -34,6 +34,8 @@
 
 **_The pointers have to be of the tree type, since they will point to a node of the same type, this would be an example of what the ABB tree type would be like._**
 
+First we create the node:
+
 **_Traducido del español:_**
 
 ## ¿Qué es un árbol?
