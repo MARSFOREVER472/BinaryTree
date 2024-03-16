@@ -57,6 +57,8 @@ struct nodo *izq;
 - **_Pre-order: First the parent, then the left child, and finally the right child._**
 - **_Post-order: First left child, then right child and finally father._**
 
+There are many concepts about ABB trees, for example, level traversals, depth of a tree, etc.
+
 **_Traducido del español:_**
 
 ## ¿Qué es un árbol?
