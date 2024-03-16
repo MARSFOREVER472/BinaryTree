@@ -46,6 +46,9 @@ struct nodo *izq;
 
 };
 ```
+
+Pointers are variables that will store in memory the address of another variable, in this case that of a structure called a node.
+
 **_Traducido del español:_**
 
 ## ¿Qué es un árbol?
