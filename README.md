@@ -34,7 +34,7 @@
 
 **_The pointers have to be of the tree type, since they will point to a node of the same type, this would be an example of what the ABB tree type would be like._**
 
-_First we create the node:_
+**_First we create the node:_**
 
 **_Traducido del español:_**
 
