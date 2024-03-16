@@ -55,6 +55,7 @@ struct nodo *izq;
 
 - _In-order: If we visit the left child first, then the father and finally the right child._
 - _Pre-order: First the parent, then the left child, and finally the right child._
+- Post-order: First left child, then right child and finally father.
 
 **_Traducido del español:_**
 
