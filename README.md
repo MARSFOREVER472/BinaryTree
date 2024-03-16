@@ -49,6 +49,8 @@ struct nodo *izq;
 
 **_Pointers are variables that will store in memory the address of another variable, in this case that of a structure called a node._**
 
+Tours of a tree
+
 **_Traducido del español:_**
 
 ## ¿Qué es un árbol?
