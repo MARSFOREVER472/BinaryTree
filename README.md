@@ -49,7 +49,7 @@ struct nodo *izq;
 
 **_Pointers are variables that will store in memory the address of another variable, in this case that of a structure called a node._**
 
-## Tours of a tree
+## Tree Throughs
 
 **_It is the recursive way in which we will go through each node of the tree, there are three ways to go through it:_**
 
