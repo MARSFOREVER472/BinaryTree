@@ -51,7 +51,7 @@ struct nodo *izq;
 
 ## Tours of a tree
 
-It is the recursive way in which we will go through each node of the tree, there are three ways to go through it:
+_It is the recursive way in which we will go through each node of the tree, there are three ways to go through it:_
 
 **_Traducido del español:_**
 
