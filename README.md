@@ -1,8 +1,8 @@
 # BinaryTree
 
-Mediante un algoritmo de búsqueda, el procedimiento ha sido el mismo que se acaba de visualizar en el proyecto.
+**_Mediante un algoritmo de búsqueda, el procedimiento ha sido el mismo que se acaba de visualizar en el proyecto._**
 
-Ejemplo:
+**_Ejemplo:_**
 
 ```
 /*
