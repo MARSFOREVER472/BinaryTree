@@ -104,5 +104,41 @@ void viewTree(ABB arbol, int n)
 
 int main()
 {
-    // EN INSTANTES...
+    // MENÚ PRINCIPAL DEL PROYECTO.
+
+    ABB arbol = NULL; // ÁRBOL YA CREADO EN EL PROGRAMA.
+
+    int n; // NÚMERO DE NODOS DENTRO DE UN ÁRBOL BINARIO DE BÚSQUEDA.
+    int x; // ELEMENTO A INSERTAR EN CADA NODO DE ESTE ÁRBOL.
+
+    cout << "\n\t\t .. [ ARBOL BINARIO DE BUSQUEDA ] .. \n\n";
+
+    cout << " NUMERO MAXIMO DE NODOS DENTRO DE UN ARBOL: " << endl;
+    cin >> n; // INGRESA UN NÚMERO MÁXIMO DE NODOS QUE CONTENDRÁ ESTE ÁRBOL.
+    cout << endl;
+
+     // RECORREMOS EL ÁRBOL POR NODOS MEDIANTE UN CICLO "for".
+
+    for (int i = 0; i < n; i++)
+    {
+        cout << " NUMERO DE NODO " << i + 1 << ": "; // EL NÚMERO DE NODOS VA A INCREMENTAR.
+        cin >> x; // LUEGO LO INSERTA AL ÁRBOL.
+        insertarNodo(arbol, x); // LLAMADO DE ESTE MÉTODO A INSERTAR UN ELEMENTO DENTRO DEL NODO.
+    }
+
+    /* ~~~~~~~~~~SE DESPLIEGAN LOS RESULTADOS DEL ÁRBOL EN CONJUNTO CON LOS NODOS YA INGRESADOS DENTRO DE LA CONSOLA.~~~~~~~~~~ */
+
+    cout << "\n **********MOSTRANDO ARBOL BINARIO (ABB)********** \n\n";
+    viewTree(arbol, 0); // LLAMADO DEL MÉTODO QUE VA CONTABILIZANDO DESDE 0.
+
+    cout << "\n *****RECORRIDOS DEL ÁRBOL BINARIO (ABB)*****";
+
+    cout << "\n\n *** EN ORDEN *** :   ";   enOrden(arbol); // EN ORDEN.
+    cout << "\n\n ****** PRE-ORDEN ****** :   ";   preOrden(arbol); // EN PRE-ORDEN.
+    cout << "\n\n ********* POST-ORDEN ********* :   ";   postOrden(arbol); // EN POST-ORDEN.
+
+    cout << endl << endl;
+
+    system("pause");
+    return 0;
 }
