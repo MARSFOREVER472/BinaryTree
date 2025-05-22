@@ -1,6 +1,6 @@
 # **_Binary_Tree_**
 
-## What is a tree?
+## _What is a tree?_
 
 **_A tree is a non-linear data structure since each element points to one or more elements of the same type; This is given an element, there is no single path to follow. The element that points to another is called the parent, while the pointed element is known as the child. All elements have a parent except the root. It can be said that a tree is made up of subtrees, thus highlighting its recursive nature._**
 
