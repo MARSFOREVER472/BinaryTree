@@ -1,4 +1,4 @@
-# _Binary_Tree_
+# **_Binary_Tree_**
 
 ## What is a tree?
 
