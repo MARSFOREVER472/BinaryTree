@@ -14,7 +14,7 @@
 
 ![image](https://github.com/MARSFOREVER472/BinaryTree/assets/69094327/23546c2c-2dbe-450f-adad-bce138380131)
 
-## What is a binary search tree?
+## **_What is a binary search tree?_**
 
 **_A binary search tree or ABB, is a binary tree in which for every element, the elements larger than it are located in its right branch, while the smaller elements go in its left branch. Each element is stored only once so there are no repeated elements._**
 
