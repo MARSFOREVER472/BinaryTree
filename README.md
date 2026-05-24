@@ -106,8 +106,8 @@ struct nodo *izq;
    
    struct nodo *izq;
    
-};
-```
+   };
+   ```
 
 **_Los punteros son variables que guardaran en la memoria la dirección de otra variable en este caso la de una estructura llamado nodo._**
 
