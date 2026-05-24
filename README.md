@@ -83,7 +83,7 @@ struct nodo *izq;
 
 **_Ya con estas definiciones claras sobre arboles, ahora estos son conceptos generales de lo que es un árbol, para poder implementarlos en lenguaje C++ tenemos que tener conocimientos previos sobre listas enlazadas y su implementación._**
 
-**_Cada elemento (nodo) de un árbol ABB cuenta con tres campos:_**
+**_Cada elemento (nodo) de un árbol binario de búsqueda ABB cuenta con tres campos:_**
 
 - **_Dato(numero, letra, palabra, etc), en este caso usaremos un numero(entero)._**
   
