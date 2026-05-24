@@ -75,7 +75,7 @@ struct nodo *izq;
 
 ![image](https://github.com/MARSFOREVER472/BinaryTree/assets/69094327/23546c2c-2dbe-450f-adad-bce138380131)
 
-## **_¿Qué es un árbol binario de búsqueda?_**
+## **_¿Qué es ABB?_**
 
 **_Un árbol binario de búsqueda (ABB), es un árbol binario en el cual para todo elemento, los elementos mayores a él, se ubican en su rama derecha, mientras que los elementos menores van en su rama izquierda. Cada elemento se almacena una sola vez por lo que no existen elementos repetidos._**
 
