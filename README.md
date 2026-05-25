@@ -85,7 +85,7 @@ struct nodo *izq;
 
 **_Cada elemento (```nodo```) de un árbol binario de búsqueda ABB cuenta con tres campos:_**
 
-- **_Dato(numero, letra, palabra, etc), en este caso usaremos un numero(entero)._**
+- **_Dato(numero, letra, palabra, etc), en este caso usaremos un numero(```entero```)._**
   
 - **_Puntero al nodo derecho._**
  
