@@ -6,7 +6,7 @@
   
 - **_This is given an element, there is no single path to follow. The element that points to another is called the parent, while the pointed element is known as the child._**
   
-- **_All elements have a parent except the root. It can be said that a tree is made up of subtrees, thus highlighting its recursive nature._**
+- **_All elements have a parent except the root. It can be said that a tree is made up of subtrees, thus highlighting it's a recursive nature._**
 
 ![image](https://github.com/MARSFOREVER472/BinaryTree/assets/69094327/d773eb2a-7552-46de-ac2f-db4ee0c7c007)
 
