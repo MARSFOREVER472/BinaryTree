@@ -12,7 +12,7 @@
 
 **_But..._**
 
-## **_What is a Binary Tree?_**
+## **_What's a Binary Tree?_**
 
 **_Is one in which each element points to at most 2 other elements, commonly called left child and right child._**
 
