@@ -1,6 +1,6 @@
 # **_Binary_Tree_**
 
-## **_What is a Tree?_**
+## **_What's a Tree?_**
 
 - **_Is a non-linear data structure since each element points to one or more elements of the same type._**
   
