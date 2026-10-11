@@ -118,7 +118,7 @@ struct nodo *izq;
 
 **_Los punteros son variables que guardarán en la memoria la dirección de otra variable en este caso la de una estructura llamado nodo._**
 
-## Recorridos de un árbol
+## **_Recorridos de un árbol_**
 
 **_Es la manera recursiva como pasaremos por cada nodo del árbol, existen tres formas para recorrerlo:_**
 
